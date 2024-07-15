@@ -11,3 +11,4 @@ haishanh/yacd:latest
 windycloud/lanraragi_cn:latest
 dokkaner/teemii-backend
 dokkaner/teemii-frontend:latest
+ailg/g-box:latest
