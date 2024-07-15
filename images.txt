@@ -8,3 +8,4 @@ metatube/metatube-server:latest
 gdy666/lucky:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
+windycloud/lanraragi_cn:latest
