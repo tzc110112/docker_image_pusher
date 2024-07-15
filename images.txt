@@ -10,3 +10,4 @@ dreamacro/clash:latest
 haishanh/yacd:latest
 windycloud/lanraragi_cn:latest
 dokkaner/teemii-backend
+dokkaner/teemii-frontend:latest
