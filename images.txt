@@ -7,3 +7,4 @@ halcyonazure/lsky-pro-docker:latest
 metatube/metatube-server:latest
 gdy666/lucky:latest
 dreamacro/clash:latest
+haishanh/yacd:latest
